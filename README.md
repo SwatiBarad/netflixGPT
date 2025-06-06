@@ -1,4 +1,4 @@
-# Netflix
+# Netflix GPT
 
 {setup paperwork}
 
